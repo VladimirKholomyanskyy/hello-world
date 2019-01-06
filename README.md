@@ -1,2 +1,2 @@
 # hello-world
-A short description
+HI humans, how are you doing?
